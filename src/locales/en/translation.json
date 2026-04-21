@@ -1,0 +1,175 @@
+{
+  "nav": {
+    "home":     "Home",
+    "about":    "About",
+    "services": "Services",
+    "menu":     "Menu",
+    "gallery":  "Gallery",
+    "contact":  "Contact"
+  },
+  "hero": {
+    "preTitle":  "Premium Catering Services",
+    "title1":    "Gold",
+    "title2":    "Catering",
+    "tagline":   "Exquisite Flavours, Unforgettable Moments",
+    "cta1":      "Explore Menu",
+    "cta2":      "Get a Quote",
+    "scroll":    "Scroll"
+  },
+  "about": {
+    "preTitle":     "Our Story",
+    "title":        "About Us",
+    "headline":     "Crafting Culinary Excellence Since 2012",
+    "p1":           "Premium catering services crafted with passion. From intimate gatherings to grand celebrations, we deliver culinary excellence that delights every guest.",
+    "p2":           "Our team of 40+ expert chefs and event professionals bring years of experience and genuine passion to every event. We source the finest local and imported ingredients, ensuring every bite tells a story of quality and care.",
+    "cta":          "Work With Us",
+    "placeholder":  "Add your image here",
+    "stats": {
+      "events":       "Events Catered",
+      "experience":   "Years Experience",
+      "satisfaction": "Client Satisfaction",
+      "chefs":        "Expert Chefs"
+    }
+  },
+  "services": {
+    "preTitle": "What We Offer",
+    "title":    "Our Services",
+    "items": {
+      "wedding":    { "title": "Wedding Banquets",   "desc": "Elegant multi-course meals tailored to your love story. From intimate 20-person dinners to grand 500-person receptions." },
+      "corporate":  { "title": "Corporate Events",   "desc": "Professional service for conferences, product launches, and team celebrations. We handle every detail." },
+      "private":    { "title": "Private Parties",    "desc": "Birthday gatherings, anniversaries, and family events made extraordinary with personalised menus." },
+      "outdoor":    { "title": "Outdoor Catering",   "desc": "Full setup for outdoor events with premium equipment, live cooking stations, and décor." },
+      "dessert":    { "title": "Dessert Tables",     "desc": "Stunning sweet spreads featuring handcrafted pastries, cakes, and confections." },
+      "live":       { "title": "Live Stations",      "desc": "Interactive cooking stations — sushi, pasta, grill — that entertain and delight guests." }
+    }
+  },
+  "menu": {
+    "preTitle":   "Culinary Selection",
+    "title":      "Our Menu",
+    "currency":   "UZS",
+    "categories": {
+      "starters": "Starters",
+      "mains":    "Main Course",
+      "desserts": "Desserts",
+      "drinks":   "Beverages"
+    },
+    "items": {
+      "101": { "name": "Bruschetta Trio",        "desc": "Tomato, olive tapenade & whipped ricotta on artisan bread." },
+      "102": { "name": "Smoked Salmon Canapés",  "desc": "Norwegian salmon with dill crème fraîche on blinis." },
+      "103": { "name": "Stuffed Mushrooms",       "desc": "Herb-cream cheese & sun-dried tomato filling." },
+      "104": { "name": "Charcuterie Board",       "desc": "Cured meats, artisan cheeses, nuts & seasonal fruits." },
+      "201": { "name": "Rack of Lamb",            "desc": "Rosemary & garlic crust with red wine jus & roasted vegetables." },
+      "202": { "name": "Roasted Chicken Supreme", "desc": "Free-range chicken with truffle butter & potato gratin." },
+      "203": { "name": "Beef Tenderloin",         "desc": "Prime tenderloin with béarnaise sauce & asparagus tips." },
+      "204": { "name": "Vegetarian Wellington",   "desc": "Mushroom duxelles & spinach in golden puff pastry." },
+      "205": { "name": "Grilled Sea Bass",        "desc": "Mediterranean herb marinade with caponata & lemon butter." },
+      "301": { "name": "Dark Chocolate Fondant",  "desc": "Warm molten centre with vanilla bean ice cream." },
+      "302": { "name": "Crème Brûlée",            "desc": "Classic French custard with caramelised sugar crust." },
+      "303": { "name": "Mango Panna Cotta",       "desc": "Silky Italian cream set with fresh mango coulis." },
+      "304": { "name": "Macaron Tower",           "desc": "Signature display tower — 60 assorted French macarons." },
+      "401": { "name": "Signature Mocktail Pack", "desc": "Set of 4 house mocktails — berry, citrus, cucumber & rose." },
+      "402": { "name": "Premium Tea Station",     "desc": "Selection of 8 fine loose-leaf teas with accompaniments." },
+      "403": { "name": "Fresh Juice Bar",         "desc": "Cold-pressed seasonal juices served per guest." }
+    }
+  },
+  "gallery": {
+    "preTitle": "Moments We've Created",
+    "title":    "Gallery",
+    "more":     "View Details",
+    "alts": {
+      "1": "Elegant table setting",
+      "2": "Gourmet appetiser platter",
+      "3": "Wedding banquet hall",
+      "4": "Live cooking station",
+      "5": "Dessert table display",
+      "6": "Outdoor garden reception"
+    }
+  },
+  "galleryDetail": {
+    "back":     "Back to Gallery",
+    "details":  "Event Details",
+    "guests":   "Guests",
+    "duration": "Duration",
+    "cuisine":  "Cuisine",
+    "location": "Location"
+  },
+  "testimonials": {
+    "preTitle": "Kind Words",
+    "title":    "Testimonials",
+    "roles": {
+      "bride":   "Bride",
+      "ceo":     "CEO, TechVentures UZ",
+      "planner": "Event Planner"
+    },
+    "texts": {
+      "1": "Gold Catering turned our wedding into a dream. Every dish was flawless and the staff were impeccable.",
+      "2": "Our product launch dinner was a resounding success. The team handled 200 guests with effortless professionalism.",
+      "3": "I recommend Gold Catering to every client. Consistent quality, beautiful presentation, and always on time."
+    }
+  },
+  "qr": {
+    "preTitle":   "Scan & Connect",
+    "title":      "QR Code",
+    "label":      "Scan to Contact Us",
+    "small":      "Small",
+    "large":      "Large",
+    "heading":    "Instant Contact",
+    "desc":       "Scan this QR code with your phone camera to open a WhatsApp chat with us instantly. Share it at events or print it on menus and invitations.",
+    "download":   "Download QR",
+    "whatsapp":   "WhatsApp Us"
+  },
+  "contact": {
+    "preTitle":     "Reach Out",
+    "title":        "Contact Us",
+    "intro":        "Ready to create an unforgettable experience? Fill in the form and our team will get back to you within 24 hours.",
+    "phone":        "Phone",
+    "email":        "Email",
+    "address":      "Address",
+    "form": {
+      "name":        "Full Name",
+      "nameReq":     "Full Name *",
+      "email":       "Email",
+      "emailReq":    "Email *",
+      "phone":       "Phone",
+      "service":     "Service",
+      "selectSvc":   "Select a service…",
+      "message":     "Message",
+      "messageReq":  "Message *",
+      "submit":      "Send Message",
+      "sending":     "Sending…",
+      "services": {
+        "wedding":   "Wedding Banquet",
+        "corporate": "Corporate Event",
+        "private":   "Private Party",
+        "outdoor":   "Outdoor Catering",
+        "dessert":   "Dessert Table",
+        "live":      "Live Station",
+        "other":     "Other"
+      }
+    },
+    "errors": {
+      "name":    "Name is required",
+      "email":   "Email is required",
+      "message": "Message is required"
+    },
+    "success": {
+      "title":  "Message Sent!",
+      "desc":   "We'll be in touch shortly.",
+      "again":  "Send Another"
+    }
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "getInTouch": "Get In Touch",
+    "crafted":    "Crafted with ✦ passion"
+  },
+  "theme": {
+    "dark":  "Dark Mode",
+    "light": "Light Mode"
+  },
+  "lang": {
+    "uz": "UZ",
+    "ru": "RU",
+    "en": "EN"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "nav": {
+    "home":     "Bosh sahifa",
+    "about":    "Biz haqimizda",
+    "services": "Xizmatlar",
+    "menu":     "Menyu",
+    "gallery":  "Galereya",
+    "contact":  "Aloqa"
+  },
+  "hero": {
+    "preTitle":  "Premium Ovqatlanish Xizmatlari",
+    "title1":    "Gold",
+    "title2":    "Catering",
+    "tagline":   "Ajoyib Ta'mlar, Unutilmas Lahzalar",
+    "cta1":      "Menyuni Ko'rish",
+    "cta2":      "Narx So'rash",
+    "scroll":    "Pastga"
+  },
+  "about": {
+    "preTitle":     "Bizning Hikoya",
+    "title":        "Biz Haqimizda",
+    "headline":     "2012 yildan beri Oshpazlik San'atini Yaratmoqdamiz",
+    "p1":           "Ishtiyoq bilan yaratilgan premium ovqatlanish xizmatlari. Kichik yig'ilishlardan tortib katta bayramlargacha, biz har bir mehmonni xursand qiladigan oshpazlik mukammalligini taqdim etamiz.",
+    "p2":           "40+ dan ortiq mutaxassis oshpazlar va tadbirlar sohasidagi mutaxassislardan iborat jamoamiz har bir tadbirga ko'p yillik tajriba va chin mehr bilan yondashadi. Biz eng yaxshi mahalliy va import qilingan mahsulotlarni tanlab olamiz.",
+    "cta":          "Biz bilan Ishlash",
+    "placeholder":  "Rasmingizni shu yerga qo'shing",
+    "stats": {
+      "events":       "Tashkil etilgan tadbirlar",
+      "experience":   "Yillik tajriba",
+      "satisfaction": "Mijozlar mamnuniyati",
+      "chefs":        "Mutaxassis oshpazlar"
+    }
+  },
+  "services": {
+    "preTitle": "Biz Taklif Etamiz",
+    "title":    "Xizmatlarimiz",
+    "items": {
+      "wedding":    { "title": "To'y Ziyofatlari",      "desc": "Sevgi hikoyangizga moslashtirilgan nafis ko'p kursli ovqatlar. 20 kishilik kichik kechki ovqatdan 500 kishilik grand qabullarigacha." },
+      "corporate":  { "title": "Korporativ Tadbirlar",  "desc": "Konferentsiyalar, mahsulot taqdimotlari va jamoa bayramlari uchun professional xizmat." },
+      "private":    { "title": "Shaxsiy Ziyofatlar",   "desc": "Tug'ilgan kun to'ylari, yubileylar va oilaviy tadbirlar shaxsiy menyular bilan bezatiladi." },
+      "outdoor":    { "title": "Ochiq Havoda Ovqat",   "desc": "Premium jihozlar, jonli oshpazlik stantsiyalari va bezaklar bilan to'liq ochiq havo tadbirlari." },
+      "dessert":    { "title": "Shirinliklar Stoli",    "desc": "Qo'lda yasalgan pishiriqlar, tortlar va qandolat mahsulotlari bilan bezatilgan go'zal shirinliklar." },
+      "live":       { "title": "Jonli Stantsiyalar",   "desc": "Sushi, pasta, grill — mehmonlarni qiziqtiradigan va xursand qiladigan interaktiv oshpazlik stantsiyalari." }
+    }
+  },
+  "menu": {
+    "preTitle":   "Taomlar Tanlovi",
+    "title":      "Menyumiz",
+    "currency":   "so'm",
+    "categories": {
+      "starters": "Salatlar",
+      "mains":    "Asosiy Taomlar",
+      "desserts": "Shirinliklar",
+      "drinks":   "Ichimliklar"
+    },
+    "items": {
+      "101": { "name": "Bruschetta Trio",        "desc": "Tomat, zaytun tapenade va hunarmand non ustida qamqovoq ricotta." },
+      "102": { "name": "Tutun Salmoni Kanapelari", "desc": "Blini ustida arpa izi bilan norvegiya qovoqlari." },
+      "103": { "name": "To'ldirilgan Qo'ziqorinlar", "desc": "O't-o'lan kremli pishloq va quritilgan pomidor." },
+      "104": { "name": "Charcuterie Taxtasi",    "desc": "Dudlangan go'sht, hunarmand pishloqlari, yong'oqlar va mavsumiy mevalar." },
+      "201": { "name": "Qo'zi Qovurg'asi",       "desc": "Qizil vino sousi va qovurilgan sabzavotlar bilan rozmarin va sarimsoq qobig'i." },
+      "202": { "name": "Qovurilgan Tovuq",       "desc": "Truffle sariyog' va kartoshka grateni bilan erkin o'stirilgan tovuq." },
+      "203": { "name": "Mol Go'shti Filesi",     "desc": "Béarnaise sousi va zangori qovoq uchlari bilan prime file." },
+      "204": { "name": "Vegetarian Wellington",  "desc": "Oltin qo'g'irchoq xamirida qo'ziqorin duxelles va ismaloq." },
+      "205": { "name": "Grillda Dengiz Okuni",   "desc": "O'rta er dengizi o'ti marinadi bilan caponata va limon sariyog'i." },
+      "301": { "name": "Qora Shokolad Fondant",  "desc": "Vanil muzqaymoq bilan iliq eritilgan markazli." },
+      "302": { "name": "Crème Brûlée",           "desc": "Karamelizatsiya qilingan qand qobig'i bilan klassik frantsuz kremi." },
+      "303": { "name": "Mango Panna Cotta",      "desc": "Yangi mango coulisi bilan ipaksimon italyan kremi." },
+      "304": { "name": "Makaron Minorasi",       "desc": "Imzo displey minorasi — 60 ta assorted frantsuz makaronlari." },
+      "401": { "name": "Imzo Mocktail To'plami", "desc": "4 ta uy mocktaillari to'plami — rezavorlar, sitrus, bodring va atirgul." },
+      "402": { "name": "Premium Choy Stantsiyasi", "desc": "Aksessuarlar bilan 8 ta yaxshi bo'sh choy tanlovlari." },
+      "403": { "name": "Yangi Sharbat Bari",     "desc": "Mehmon boshiga xizmat qilinadigan sovuq siqilgan mavsumiy sharbatlar." }
+    }
+  },
+  "gallery": {
+    "preTitle": "Biz Yaratgan Lahzalar",
+    "title":    "Galereya",
+    "more":     "Batafsil Ko'rish",
+    "alts": {
+      "1": "Nafis stol bezagi",
+      "2": "Gurme ishtaha qozonuvchi tarelkasi",
+      "3": "To'y ziyofat zali",
+      "4": "Jonli oshpazlik stantsiyasi",
+      "5": "Shirinliklar stoli ko'rinishi",
+      "6": "Ochiq havoda bog' qabuli"
+    }
+  },
+  "galleryDetail": {
+    "back":     "Galereyaga Qaytish",
+    "details":  "Tadbir Tafsilotlari",
+    "guests":   "Mehmonlar",
+    "duration": "Davomiylik",
+    "cuisine":  "Oshxona",
+    "location": "Joylashuv"
+  },
+  "testimonials": {
+    "preTitle": "Mehribon So'zlar",
+    "title":    "Mijozlar Fikri",
+    "roles": {
+      "bride":   "Kelin",
+      "ceo":     "Direktor, TechVentures UZ",
+      "planner": "Tadbir Rejalashtiruvchi"
+    },
+    "texts": {
+      "1": "Gold Catering to'yimizni orzuga aylantirdi. Har bir taom mukammal edi va xodimlar ajoyib edi.",
+      "2": "Mahsulot taqdimoti kechki ovqatimiz muvaffaqiyatli bo'ldi. Jamoa 200 mehmonni bexato professional tarzda boshqardi.",
+      "3": "Har bir mijozga Gold Cateringni tavsiya qilaman. Doimiy sifat, chiroyli taqdimot va har doim o'z vaqtida."
+    }
+  },
+  "qr": {
+    "preTitle":   "Skaner qilib Bog'laning",
+    "title":      "QR Kod",
+    "label":      "Biz bilan bog'lanish uchun skaner qiling",
+    "small":      "Kichik",
+    "large":      "Katta",
+    "heading":    "Tezkor Aloqa",
+    "desc":       "Bizga WhatsApp suhbatini ochish uchun telefon kamerangiz bilan ushbu QR kodni skaner qiling. Uni tadbirlarda ulashing yoki menyular va takliflarga chop eting.",
+    "download":   "QR Yuklab Olish",
+    "whatsapp":   "WhatsApp'da Yozing"
+  },
+  "contact": {
+    "preTitle":     "Murojaat Qiling",
+    "title":        "Aloqa",
+    "intro":        "Unutilmas tajriba yaratishga tayyormisiz? Formani to'ldiring va jamoamiz 24 soat ichida siz bilan bog'lanadi.",
+    "phone":        "Telefon",
+    "email":        "Elektron pochta",
+    "address":      "Manzil",
+    "form": {
+      "name":        "To'liq Ism",
+      "nameReq":     "To'liq Ism *",
+      "email":       "Elektron pochta",
+      "emailReq":    "Elektron pochta *",
+      "phone":       "Telefon",
+      "service":     "Xizmat",
+      "selectSvc":   "Xizmatni tanlang…",
+      "message":     "Xabar",
+      "messageReq":  "Xabar *",
+      "submit":      "Xabar Yuborish",
+      "sending":     "Yuborilmoqda…",
+      "services": {
+        "wedding":   "To'y Ziyofati",
+        "corporate": "Korporativ Tadbir",
+        "private":   "Shaxsiy Ziyofat",
+        "outdoor":   "Ochiq Havo Catering",
+        "dessert":   "Shirinliklar Stoli",
+        "live":      "Jonli Stantsiya",
+        "other":     "Boshqa"
+      }
+    },
+    "errors": {
+      "name":    "Ism kiritish shart",
+      "email":   "Elektron pochta kiritish shart",
+      "message": "Xabar kiritish shart"
+    },
+    "success": {
+      "title":  "Xabar Yuborildi!",
+      "desc":   "Tez orada siz bilan bog'lanamiz.",
+      "again":  "Yana Yuborish"
+    }
+  },
+  "footer": {
+    "quickLinks": "Tezkor Havolalar",
+    "getInTouch": "Bog'laning",
+    "crafted":    "✦ ishtiyoq bilan yaratilgan"
+  },
+  "theme": {
+    "dark":  "Qorong'u Rejim",
+    "light": "Yorug' Rejim"
+  },
+  "lang": {
+    "uz": "UZ",
+    "ru": "RU",
+    "en": "EN"
+  }
+}

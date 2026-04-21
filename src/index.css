@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Base resets & smooth scroll ─────────────────────────────────────── */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-body bg-cream-50 text-charcoal-800
+           dark:bg-charcoal-950 dark:text-cream-100
+           transition-colors duration-300;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display;
+  }
+}
+
+/* ── Reusable component classes ──────────────────────────────────────── */
+@layer components {
+
+  /* Gold divider line */
+  .gold-divider {
+    @apply h-px w-16 bg-gold-500 mx-auto my-4;
+  }
+
+  /* Section wrapper */
+  .section-wrap {
+    @apply max-w-7xl mx-auto px-4 sm:px-8 py-16 md:py-24;
+  }
+
+  /* Gold outlined button */
+  .btn-gold {
+    @apply inline-flex items-center gap-2 border border-gold-500 text-gold-600
+           dark:text-gold-400 px-6 py-2.5 text-sm font-body tracking-widest
+           uppercase hover:bg-gold-500 hover:text-charcoal-900
+           transition-all duration-300 rounded-sm;
+  }
+
+  /* Filled gold button */
+  .btn-gold-fill {
+    @apply inline-flex items-center gap-2 bg-gold-500 text-charcoal-900
+           px-6 py-2.5 text-sm font-body tracking-widest uppercase
+           hover:bg-gold-600 transition-all duration-300 rounded-sm font-bold;
+  }
+
+  /* Card surface */
+  .card {
+    @apply bg-white dark:bg-charcoal-800 border border-cream-200
+           dark:border-gold-900/30 rounded-sm shadow-sm
+           hover:shadow-md transition-shadow duration-300;
+  }
+
+  /* Gold shimmer text */
+  .gold-shimmer {
+    background: linear-gradient(
+      90deg,
+      #d97706 0%,
+      #fbbf24 40%,
+      #fde68a 50%,
+      #fbbf24 60%,
+      #d97706 100%
+    );
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: shimmer 3s linear infinite;
+  }
+
+  /* Active nav link */
+  .nav-link-active {
+    @apply text-gold-500 font-bold;
+  }
+}
+
+/* ── Scrollbar styling ────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { @apply bg-cream-100 dark:bg-charcoal-900; }
+::-webkit-scrollbar-thumb { @apply bg-gold-500 rounded-full; }
+
+/* ── Horizontal scroll for menu (>6 items) ──────────────────────────────── */
+.menu-scroll-container {
+  scrollbar-width: thin;
+  scrollbar-color: #f59e0b transparent;
+}
+.menu-scroll-container::-webkit-scrollbar { height: 4px; }
+.menu-scroll-container::-webkit-scrollbar-track { background: transparent; }
+.menu-scroll-container::-webkit-scrollbar-thumb { background: #f59e0b; border-radius: 99px; }
+
+/* ── Testimonial carousel scroll ────────────────────────────────────────── */
+.testimonial-scroll {
+  scrollbar-width: none;
+}
+.testimonial-scroll::-webkit-scrollbar { display: none; }
