@@ -10,7 +10,7 @@ import { brandInfo } from '@/data/menuData'
 // 1. Go to https://web3forms.com
 // 2. Enter sardorbahramov04@gmail.com and click "Create Access Key"
 // 3. Copy the key and paste it below
-const WEB3FORMS_KEY = '40fccd3c-b700-4709-ba38-337819498d80'
+const WEB3FORMS_KEY = 'YOUR_ACCESS_KEY_HERE'
 // ─────────────────────────────────────────────────────────────────────────────
 
 const INITIAL = { name: '', email: '', phone: '', service: '', message: '' }
